@@ -30,3 +30,9 @@ Initial Candidate Features
 * Expected Runs
 * Win Probability
 * Expected runs for a given lineup
+
+Planned Front-Ends
+------------------
+
+* Web
+* iOS
