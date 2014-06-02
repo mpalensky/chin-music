@@ -21,6 +21,7 @@ For example, Chin Music can (will eventually ...) answer the following questions
 Chin Music will also provide:
 
 * Bone-headed manager alerts - Be informed when a manager makes a terrible move
+* WAR path vs WAR Drain (10 game player/replacement trend)
 
 
 
@@ -30,9 +31,13 @@ Initial Candidate Features
 * Expected Runs
 * Win Probability
 * Expected runs for a given lineup
+* Different Model Types: Historic, Simulation, Recent Trends, Etc.
+
+
 
 Planned Front-Ends
 ------------------
 
 * Web
 * iOS
+
