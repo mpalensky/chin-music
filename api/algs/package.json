@@ -1,8 +1,0 @@
-{
-	"name": "chin-music-algs",
-	"description": "Fundamental algorithms",
-	"version": "0.0.1",
-	"dependencies": {
-		"express": "3.x"
-	}
-}
